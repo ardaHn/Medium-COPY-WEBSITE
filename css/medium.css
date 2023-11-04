@@ -9,3 +9,7 @@ body {
 .border-bottom-dark {
     border-bottom: 1.5px solid #222;
 }
+
+.discover {
+    letter-spacing: 1.2px;
+}
